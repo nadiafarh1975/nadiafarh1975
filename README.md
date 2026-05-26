@@ -1,7 +1,7 @@
 ## Hi there 👋
+my name is Nadia and am looking for business mentors to guide me through the company building phase.
 
-<!--
-**nadiafarh1975/nadiafarh1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nadiafarh1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
